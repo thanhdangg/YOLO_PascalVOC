@@ -1,0 +1,1 @@
+python train.py --freeze 24  --img 640 --batch 64 --epochs 50 --data voc2012.yaml --weights yolov5s.pt &
